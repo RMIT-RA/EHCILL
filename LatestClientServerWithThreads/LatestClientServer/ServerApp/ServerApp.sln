@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServerApp", "ServerApp\ServerApp.vcxproj", "{922F44F1-140B-4CE5-8F0B-4E822A911524}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{50DFFFDE-3330-41D7-B483-AD77997D57E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922F44F1-140B-4CE5-8F0B-4E822A911524}.Debug|Win32.ActiveCfg = Debug|Win32
+		{922F44F1-140B-4CE5-8F0B-4E822A911524}.Debug|Win32.Build.0 = Debug|Win32
+		{922F44F1-140B-4CE5-8F0B-4E822A911524}.Release|Win32.ActiveCfg = Release|Win32
+		{922F44F1-140B-4CE5-8F0B-4E822A911524}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
